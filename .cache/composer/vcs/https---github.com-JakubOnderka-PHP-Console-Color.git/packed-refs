@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled 
+d5deaecff52a0d61ccb613bb3804088da0307191 refs/heads/master
+bc3d4b7015346daa6ed3a7ee687a4d3f762edb87 refs/pull/1/head
+b99a7f7a861e59c76d454d15e8a7523632dd429b refs/pull/10/head
+2d51f4843d46b427be64688ba340c30bd6b2e9c1 refs/pull/10/merge
+678d2ccabf2515dc10c79418c9c1e50d63bdeeb5 refs/pull/11/head
+01e3f88fcc58ff4128986600c7684b16d8d6b0b7 refs/pull/11/merge
+1ed896b3c71556168cc5f2d361d6c7ce677ec540 refs/pull/14/head
+dce1476709fde2996ba66be877ca0a2b25f2af60 refs/pull/2/head
+726d3b328bc89cda3cdc126fd2e51431cccdb70f refs/pull/3/head
+acd9ffeb0e84d212169d7435ca450fd98d56209e refs/pull/4/head
+56e61982d684eaf3fdb7cc373d2d3b5248be70bb refs/pull/5/head
+8df2134e385aaae6f2358e1df4eef7a728f3b27d refs/pull/6/head
+7e3134518c80eb6489efdd838b201e8dabb6396c refs/pull/6/merge
+49de4f099f82e14686a5707daeae7bbecd404292 refs/pull/7/head
+7fbfb97ccad59972f890b3570644f3d2ae351300 refs/pull/8/head
+324954ed1c51f03701911392821e7d0c516816be refs/pull/9/head
+e0b393dacf7703fc36a4efc3df1435485197e6c1 refs/tags/v0.1
+d5deaecff52a0d61ccb613bb3804088da0307191 refs/tags/v0.2
